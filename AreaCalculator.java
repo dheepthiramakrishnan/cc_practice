@@ -1,4 +1,4 @@
-/ Team Collaboration Project: Area Calculator
+// Team Collaboration Project: Area Calculator
 // Author: Partner 1 (Base Setup & Circle Feature)
 import java.util.Scanner;
 
@@ -10,7 +10,7 @@ public class AreaCalculator {
     }
 
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.util.Scanner.in);
+        Scanner scanner = new Scanner(System.in);
         
         System.out.println("--- Collaborative Area Calculator ---");
         System.out.println("1. Circle");
